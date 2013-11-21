@@ -18,7 +18,7 @@ layout: post
 + 关于TAO ZHANG教程中其他人也提到的最后一步push，我也遇到了问题，应该是本地和远程Repo同步的问题，查了些英文的解释，确实没看明白，最后试了下$ git push -f origin master 强制push，总算完成。
 
 + "invalid byte sequence in GBK (ArgumentError)"问题，可根据[jekyll/issues/1624](https://github.com/mojombo/jekyll/issues/1624)处理
->No problem! Once v1.3 comes out, try assigning encoding: "utf-8" in your _config.yml and trying without the HTML entities. It should correct itself (hopefully). :)
+    >No problem! Once v1.3 comes out, try assigning encoding: "utf-8" in your \_config.yml and trying without the HTML entities. It should correct itself (hopefully). :)
 
 ###为什么开博
 
