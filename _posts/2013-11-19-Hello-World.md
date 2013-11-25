@@ -1,7 +1,6 @@
----
+﻿---
 layout: post
 ---
-{% include JB/setup %}
 
 ###开博之前##
 
