@@ -1,27 +1,24 @@
-﻿---
+---
 layout: page
+permalink: /about/
 title: About me
 share: true
 ---
 
 
+Youngman at 30-age, with hair less, living in a seaside city. 
 
-30来岁青年，头发渐少，住在海边城市。
+Looking at **Fitness**  \ **Productivity**  \ **Data Science**  
 
-喜欢美剧、向往健康、便携电子产品控。 
-
-学信息，工作在制造行业，从事一份职业06年至今。
-
-关注 **健康(Fitness)**  \ **效率**  \ **数据科学(Data Science)**  
 <br>
 <br>
 <br>
 <br>
-### 13年11月开博，用文字记录所见所想。##
+>Start bloging from 2013 Nov, to record what were saw and what were done.
 
 <br>
 
 
-<div markdown="0"><a href="index.html" class="btn btn-info">回到首页</a></div>
+<div markdown="0"><a href="http://lucascao.github.io/index" class="btn btn-info">Front page</a></div>
 
-![](DSC02407.JPG)
+![](http://lucascao.github.io/DSC02407.JPG)
