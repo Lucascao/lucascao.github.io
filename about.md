@@ -1,8 +1,6 @@
 ---
 layout: page
-permalink: /about
 title: About me
-share: true
 ---
 
 
@@ -14,7 +12,7 @@ Looking at **Fitness**  \ **Productivity**  \ **Data Science**
 <br>
 <br>
 <br>
->Start bloging from 2013 Nov, to record what were saw and what were done.
+    Start bloging from 2013 Nov, to record what were saw and what were done.
 
 <br>
 
