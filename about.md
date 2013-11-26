@@ -1,6 +1,5 @@
 ﻿---
 layout: page
-permalink: /about/
 title: About me
 share: true
 ---
