@@ -1,6 +1,7 @@
 ---
 layout: post
-tag: 效率
+tag: [效率, Life hack]
+comments: true
 ---
 
 # 简介 #
@@ -8,15 +9,15 @@ tag: 效率
 今天从[Zite](http://www.zite.com)看到的文章，提出适度思考。过多的思考不会保证完美的结果，高效的人需要决定“OK, 我需要交卷了”，通过Lesson-learnt总结来避免将来犯类似错误。方法如下：
 [http://www.positivityblog.com/index.php/2013/11/20/how-to-stop-overthinking/]()
 
-- 1. 把事情放到更大的框架内去看
-- 2. 设定较短的决策时间限制 
-- 3. 成为行动者 
-- 4. 意识到你无法控制所有 
-- 5. 意识到想不通时果断停止 
-- 6. 不要迷失在模糊的恐惧中 
-- 7. 身体锻炼
-- 8. 当下的力量 
-- 9. 倾向性择友 
+- 把事情放到更大的框架内去看
+- 设定较短的决策时间限制 
+- 成为行动者 
+- 意识到你无法控制所有 
+- 意识到想不通时果断停止 
+- 不要迷失在模糊的恐惧中 
+- 身体锻炼
+- 当下的力量 
+- 倾向性择友 
 
 
 ![](http://www.positivityblog.com/wp-content/uploads/131119_overthinkb2.jpg)
@@ -63,6 +64,7 @@ Here’s what have worked for me.
 
 For small decisions like if should go and do the dishes, respond to an email or work out I usually give myself 30 seconds or less to make a decision.
 For somewhat larger decisions that would have taken me days or weeks to think through in the past I use a deadline for 30 minutes or for the end of the workday.
+
 ### 3. Become a person of action. ##
 
 When you know how to get started with taking action consistently each day then you’ll procrastinate less by overthinking.
@@ -132,6 +134,7 @@ Three ways that I often use to reconnect with the present moment are:
 Slow down. Slow down how you do whatever you are doing right now. Move slower, talk slower or ride your bicycle more slowly for example. By doing so you become more aware of how you use your body and what is happening all around you right now.
 Tell yourself: Now I am… I often tell myself this: Now I am X. And X could be brushing my teeth. Taking a walk in the woods. Or doing the dishes. This simple reminder helps my mind to stop wandering and brings my focus back to what is happening in this moment.
 Disrupt and reconnect. If you feel you are getting lost in overthinking then disrupt that thought by – in your mind – shouting this to yourself : STOP! Then reconnect with the present moment by taking just 1-2 minutes to focus fully on what is going on around you. Take it all in with all your senses. Feel it, hear it, smell it, see it and sense it on your skin.
+
 ### 9. Spend more of your time with people who do not overthink things. ##
 
 Your social environment plays a big part. And not just the people and groups close to you in real life. But also what you read, listen to and watch. The blogs, books, forums, movies, podcasts and music in your life.

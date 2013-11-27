@@ -1,5 +1,7 @@
-﻿---
+---
 layout: post
+tag: Jekyll
+comments: true
 ---
 
 ###开博之前##
