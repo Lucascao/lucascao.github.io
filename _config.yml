@@ -28,8 +28,12 @@ owner:
 background: ps_neutral.png
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   
-google_verify:      
+
+analytics :
+  provider : google
+  google : 
+      tracking_id : 'UA-47367980-1'
+         
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:         
 
